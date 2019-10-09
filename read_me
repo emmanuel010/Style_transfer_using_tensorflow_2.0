@@ -1,0 +1,2 @@
+style_transfer using outputs form pretrained vgg19 model, using tensorflow 2.0 and keras
+reference on tensorflow tutorials in the official website
